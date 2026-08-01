@@ -17,6 +17,7 @@ Nagi — self-hosted система исследования и управлен
 - [Протокол экспериментов](docs/research/experimental-protocol.md)
 - [Архитектура](docs/architecture/ARCHITECTURE.md)
 - [План поставки по уровням](docs/ROADMAP.md)
+- [Учётные данные: когда, какие и куда](docs/operations/credentials.md)
 
 ## Зафиксированные параметры
 

@@ -1,3 +1,26 @@
+# Секреты — никогда не коммитить.
+# Штатное место для токенов: ~/.config/nagi/secrets.env (вне репозитория).
+# Правила: docs/operations/credentials.md
+*.env
+.env
+.env.*
 bank.env
-.idea
-venv
+secrets/
+*.pem
+*.key
+
+# Окружения и IDE
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+
+# Локальные данные и артефакты прогонов
+data/
+raw/
+*.sqlite
+*.db
+.ipynb_checkpoints/
